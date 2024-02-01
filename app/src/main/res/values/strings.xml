@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">task09_FullLayout</string>
+    <string name="light_traffic_ahead">Light traffic ahead.</string>
+    <string name="good_morning">Good morning!</string>
+    <string name="weather">Weather</string>
+    <string name="calendar">Calendar</string>
+    <string name="navigate">Navigate</string>
+</resources>
